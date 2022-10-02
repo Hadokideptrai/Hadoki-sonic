@@ -1,13 +1,12 @@
 # SETUP
-$ git clone https://github.com/cochyhung/Sonic-Blood
+$ git clone https://github.com/Hadokideptrai/Hadoki-sonic
 
-$ cd Sonic-Blood
+$ cd Hadoki-sonic
 
 $ python3 setup.py or python setup.py
 
 # run
 
-$ python main.py or python3 main.py
+$ python hadokiv3.py or python3 hadokiv3.py
 
-# contact
-$ zalo 0335725764
+# contact pdk
