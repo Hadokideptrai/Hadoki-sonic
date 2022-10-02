@@ -3531,8 +3531,8 @@ def printf(txt, delay=0, end='\n', flush=True):
 
 def inputf():
     printf(Colorate.Vertical(Colors.purple_to_red, '''
-  ╔═══[root@Sonic-PRO]
-  ╚══> ''', True), end=' ')
+  ╔═══[root@hadokiattack]
+  :lênh: ''', True), end=' ')
     
     return input().strip().lower()
 
@@ -3544,14 +3544,18 @@ def welcome():
   clr()
   printf(Center.XCenter(Colorate.Vertical(Colors.blue_to_purple, f'''
 version: Beta 1.1
-                         ╔═╗╔═╗╔╗╔╦╔═╗       ╔═╗╦═╗╔═╗
-                         ╚═╗║ ║║║║║║    ───  ╠═╝╠╦╝║ ║
-                         ╚═╝╚═╝╝╚╝╩╚═╝       ╩  ╩╚═╚═╝
-                         ♥   welcome to Sonic-PRO   ♥
+                         
+                          ▄ .▄ ▄▄▄· ·▄▄▄▄        ▄ •▄ ▪  
+                         ██▪▐█▐█ ▀█ ██▪ ██ ▪     █▌▄▌▪██ 
+                         ██▀▐█▄█▀▀█ ▐█· ▐█▌ ▄█▀▄ ▐▀▀▄·▐█·
+                         ██▌▐▀▐█ ▪▐▌██. ██ ▐█▌.▐▌▐█.█▌▐█▌
+                         ▀▀▀ · ▀  ▀ ▀▀▀▀▀•  ▀█▄▀▪·▀  ▀▀▀▀
+
+                         ♥   welcome to hadoki attack   ♥
                         ══╦════════════════════════╦══
                   ╔═══════╩════════════════════════╩═══════╗
-                  ║       Powerful DoS by Coc Hy Hung      ║
-                  ║   Facebook: fb.com/cochyhung.profile   ║
+                  ║       Powerful DoS by phan duy khai    ║
+                  ║   Facebook: fb.com/duykhai.2k5         ║
                   ╚════════════════════════════════════════╝
  '''), True), end='')
 
@@ -3569,13 +3573,13 @@ version: Beta 1.1
              ╩══╦══════════════0══════════════════╦══╩
       ╔═════════╩═════════════════════════════════╩═════════╗
     
-        ➡ coder                :       @MUQES & @jc_lifemiles
-        ➡ idea                 :     @JuicexNet & @AuraNetz
-        ➡ team                 :       @Killnet_Jacky
+        ➡ coder                :       @HADOKI 
+        ➡ idea                 :     @CÒI
+        ➡ team                 :       @ADW
         ➡ support              :        @AuraNetz
         ➡ thanks               :      #MatrixTM & #MHDDoS
     
-                          @Killnet_Jacky
+                     HADOKIHADOKI
                              
       ╠═════════╦══════════════$══════════════════╦═════════╣
              ╦══╩═════════════════════════════════╩══╦
@@ -3601,7 +3605,7 @@ version: Beta 1.1
       ➡ l7                   |         show layer7 methods
       ➡ l4                   |         show layer 4 methods
 
-                     @Coc Hy Hung _ 2008
+                     @Phan Duy KHai_
                            
     ╠═════════╦══════════════$══════════════════╦═════════╣
            ╦══╩═════════════════════════════════╩══╦    
